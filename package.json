@@ -9,7 +9,8 @@
   "dependencies": {
     "add": "^2.0.6",
     "global": "^4.3.2",
-    "graphql-yoga": "^1.17.4"
+    "graphql-yoga": "^1.17.4",
+    "node-fetch": "^2.3.0"
   },
   "scripts": {
     "start": "nodemon --exec babel-node index.js"
